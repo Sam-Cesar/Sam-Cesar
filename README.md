@@ -20,7 +20,6 @@ I am finishing my **Bachelor of Applied Science in Information Technology at Ens
 - **Description:** Compared Firebase, Auth0, and Amazon Cognito authentication methods during my internship at StudyPass LLC.  
 - **Skills:** Security research, prototyping, stakeholder communication.  
 - **Highlights:** Built a mockup website with Firebase Auth; analyzed pros/cons; prepared midterm report.  
-- **Repo/Docs:** *(Add link here when uploaded)*
 
 ---
 
@@ -28,7 +27,6 @@ I am finishing my **Bachelor of Applied Science in Information Technology at Ens
 - **Description:** A 4–5 page illustrated guide for early adopters of a smart device.  
 - **Skills:** Audience analysis, task-based instructions, visual communication.  
 - **Outcome:** Clear, concise onboarding document for non-technical users.  
-- **File:** *(Add PDF/Doc link here)*
 
 ---
 
@@ -36,7 +34,7 @@ I am finishing my **Bachelor of Applied Science in Information Technology at Ens
 - **Description:** A concise FAQ simplifying workflow orchestration concepts.  
 - **Skills:** Terminology choices, simplifying technical jargon, mixed audience communication.  
 - **Outcome:** Improved onboarding and reduced common questions.  
-- **File:** *(Add PDF/Doc link here)*
+
 
 ---
 
@@ -44,7 +42,6 @@ I am finishing my **Bachelor of Applied Science in Information Technology at Ens
 - **Description:** Analysis of challenges and benefits of migrating from on-prem to cloud.  
 - **Skills:** Research synthesis, architectural trade-offs, governance considerations.  
 - **Outcome:** Clear, evidence-based recommendations for decision-makers.  
-- **File:** *(Add link here)*
 
 ---
 
@@ -52,7 +49,6 @@ I am finishing my **Bachelor of Applied Science in Information Technology at Ens
 - Security Certification  
 - Ethical Hacking Certification  
 - Technical Writing Certification  
-*(Add certificates or badge images here)*
 
 ---
 
