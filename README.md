@@ -1,74 +1,66 @@
 # Samuel Cesar – IT Portfolio
+# 👋 Hi, I’m Samuel Cesar  
 
-Welcome to my professional portfolio!  
-I am finishing my **Bachelor of Applied Science in Information Technology at Ensign College**, with a focus on **cybersecurity** and **technical writing**. This portfolio showcases projects, certifications, and reflections that highlight both my technical abilities and my values as a disciple-leader.
-
----
-
-## 📌 About Me
-- 🎓 IT student at Ensign College (BAS in Information Technology)
-- 🔐 Passionate about **cybersecurity** and **ethical hacking**
-- 📝 Skilled in **technical writing**, documentation, and IT communication
-- 🤝 Values: **Consecration, Integrity, Lifelong Learning**
-- 🎮 Fun fact: I love **strategy video games**!
+🎓 Senior student in **Information Technology** at Ensign College  
+🔐 Passionate about **Cybersecurity, Systems Administration, and Technical Writing**  
+🙏 Guided by faith as a disciple of Jesus Christ  
 
 ---
 
-## 🚀 Projects
+## 🌟 Guiding Principles  
+My spiritual journey shapes how I approach IT. These principles guide both my studies and my career:  
 
-### 🔐 Cybersecurity Research – Authentication Methods
-- **Description:** Compared Firebase, Auth0, and Amazon Cognito authentication methods during my internship at StudyPass LLC.  
-- **Skills:** Security research, prototyping, stakeholder communication.  
-- **Highlights:** Built a mockup website with Firebase Auth; analyzed pros/cons; prepared midterm report.  
-
----
-
-### 📘 Technical Writing – Smart Home Hub Quick Start Guide
-- **Description:** A 4–5 page illustrated guide for early adopters of a smart device.  
-- **Skills:** Audience analysis, task-based instructions, visual communication.  
-- **Outcome:** Clear, concise onboarding document for non-technical users.  
+1. **Consecration of Time & Talent** — I dedicate my skills and efforts to serving others (Mosiah 2:17).  
+2. **Integrity & Accountability** — Trust and transparency are the foundation of discipleship and cybersecurity (Elder Bednar, *The Character of Christ*).  
+3. **Lifelong Learning with the Spirit** — I seek knowledge “by study and also by faith” (D&C 88:118).  
 
 ---
 
-### ❓ Control-M FAQ
-- **Description:** A concise FAQ simplifying workflow orchestration concepts.  
-- **Skills:** Terminology choices, simplifying technical jargon, mixed audience communication.  
-- **Outcome:** Improved onboarding and reduced common questions.  
+## 💻 Featured Projects  
 
+### 🔐 [StudyPass LLC Internship](#)  
+*Firebase vs. Auth0 vs. Amazon Cognito Authentication*  
+- Role: Intern on a 4-person team with industry sponsors  
+- Skills: Authentication research, prototyping, stakeholder communication  
+- Outcome: Built a mockup site with Firebase authentication + midterm presentation  
 
----
+### 📘 [Smart Home Hub Quick Start Guide](#)  
+- Role: Technical Writer  
+- Skills: User onboarding, task-based instructions, visuals  
+- Outcome: A 4–5 page guide simplifying device setup  
 
-### ☁️ Cloud Adoption Discussion
-- **Description:** Analysis of challenges and benefits of migrating from on-prem to cloud.  
-- **Skills:** Research synthesis, architectural trade-offs, governance considerations.  
-- **Outcome:** Clear, evidence-based recommendations for decision-makers.  
-
----
-
-## 🏆 Certifications
-- Security Certification  
-- Ethical Hacking Certification  
-- Technical Writing Certification  
+### ❓ [Control-M FAQ](#)  
+- Role: Technical Writer  
+- Skills: Simplifying complex workflow concepts  
+- Outcome: FAQ to support onboarding of new users  
 
 ---
 
-## ✨ Reflections – Faith & Technology
-> “Men should be anxiously engaged in a good cause, and do many things of their own free will.” – D&C 58:27  
-
-- Weekly reflections connecting scriptures to IT experiences.  
-- Focus on **consecration, integrity, and lifelong learning**.  
-- Example: Pausing for prayer before coding helped me approach debugging with clarity and patience.  
+## 📜 Certifications  
+- Security  
+- Ethical Hacking  
+- Technical Writing  
 
 ---
 
-## 📫 Connect with Me
-- [LinkedIn](#) https://www.linkedin.com/in/samuel-cesar/ 
-- [Email](#) samuelmoreiracesar@hotmail.com
-- [GitHub](#)  Sam-Cesar
+## ⚖️ Ethics in IT  
+### Case Study: Equifax Data Breach (2017)  
+- **What happened:** A missed patch led to exposure of ~147 million users’ data.  
+- **Lessons learned:** Accountability and transparency are non-negotiable.  
+- **Reflection:** As a cybersecurity professional, I commit to proactive defense and honest communication.  
 
 ---
 
-## ⚡ Future Plans
-- Build out a cybersecurity case study with demo + write-up.  
-- Continue integrating spiritual reflections into professional growth.  
-- Use this portfolio to apply for roles in **cybersecurity** and **IT systems administration**.
+## ✨ Reflections  
+I believe faith and technology strengthen each other. Weekly, I write reflections connecting scriptures, talks, and experiences to my IT journey:  
+
+- D&C 58:27–28 — Acting with initiative in projects  
+- “Make Time for the Lord” — Elder Nelson’s reminder that daily devotion fuels my learning  
+- Temple reflection — Eternal covenants give perspective in my career path  
+
+---
+
+## 📫 Let’s Connect  
+- 📧 Email: samuelmoreiracesar@hotmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/samuel-cesar/ 
+- 🌐 Portfolio updates: This GitHub page will grow weekly with reflections, projects, and case studies.  
