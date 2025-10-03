@@ -52,17 +52,17 @@ My spiritual journey shapes how I approach IT. These principles guide both my st
 ---
 
 ## ✨ Reflections  
-I believe **faith and technology strengthen each other**. Weekly, I write reflections connecting scriptures, talks, and experiences to my IT journey:  
+I believe faith and technology strengthen each other. Weekly, I write reflections connecting scriptures, talks, and experiences to my IT journey. These insights shape both my discipleship and my professional growth:
 
-- *D&C 58:27–28* — Acting with initiative in projects.  
-- *“Make Time for the Lord”* (Elder Nelson) — Daily devotion fuels my learning.  
-- **Temple reflections** — Eternal covenants give perspective in my career path.  
+D&C 58:26–28 — Teaches me to act with initiative in projects rather than waiting for direction. This motivates me to take ownership of my learning and work.
 
-📄 Latest Reflections & Reports:  
-- [Week 4 – Spiritual & Professional Portfolios](./IT497_Week4_Enrichment.docx)  
-- [Week 5 – Christlike Attributes & Integration](./Reflections_Post_v2.docx)  
-- [Week 5 – Usability Testing Report](./Usability_Testing_Report_v2.docx)  
-- [Week 5 – Ethical Dilemma Reflection](./Ethical_Dilemma_Reflection_v2.docx)  
+Mosiah 2:17 — Service is at the heart of discipleship. I apply this by serving users and protecting data, seeing cybersecurity as a way of blessing others.
+
+Elder David A. Bednar, “Come and See” — Reminds me that discipleship is active. My IT studies help me bless others by building ethical and trustworthy systems.
+
+D&C 88:118 — Encourages learning “by study and by faith.” I strive to combine technical problem-solving with spiritual guidance.
+
+Temple Reflections — Eternal covenants remind me that consistency, patience, and stewardship apply both to discipleship and to building reliable, secure systems.
 
 ---
 
